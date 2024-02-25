@@ -9,3 +9,16 @@ li{
 #first-heading { color:red;}
 
 #god { color: aqua;}
+
+.p_two {
+    color: pink;
+    font-size: 30px;
+    font-weight: 700;
+    background-color: black;
+    cursor: pointer;
+    padding: 6px;
+    border-radius: 10px;
+    width: 200px;
+    margin: auto;
+  } 
+  
