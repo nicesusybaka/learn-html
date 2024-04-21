@@ -91,5 +91,54 @@
         </html>
 
 
+
+
+
+        <html lang="en">
+            <head>
+                <meta charset="UTF-8">
+                <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                <style>
+                    body {
+                        background-color: #1a1a1a;
+                        color: white;
+                        font-family: Arial, sans-serif;
+                    }
+                    .header {
+                        text-align: center;
+                        padding: 20px;
+                    }
+                    .blog-name {
+                        font-size: 24px;
+                        font-weight: bold;
+                    }
+                    .options {
+                        display: flex;
+                        justify-content: center;
+                        gap: 20px;
+                        margin-top: 10px;
+                    }
+                    .option {
+                        font-size: 14px;
+                    }
+                </style>
+            </head>
+            <body>
+                <div class="header">
+                    <div class="blog-name">ANONYSTICK</div>
+                    <div class="options">
+                        <div class="option">Snippets code</div>
+                        <div class="option">Learn code</div>
+                        <div class="option">Demo code</div>
+                        <div class="option">Rss code</div>
+                        <div class="option">Life code</div>
+                        <div class="option">Search code</div>
+                    </div>
+                </div>
+            </body>
+            </html>
+
+
+
 </body>
 </html>
